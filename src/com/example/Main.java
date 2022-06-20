@@ -5,7 +5,7 @@ import java.util.*;
 
 
 /**
- * Esta es una app CRUD de ejemplo que nos permite leer, insertar, editar y borrar contactos desde un fichero CSV
+ * This is an example of a CRUD app that reads, writes, edits and deletes contacts on a CSV file.
  */
 
 public class Main {
